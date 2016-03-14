@@ -1,0 +1,3 @@
+PersonNotificationBObj/TCRMPersonBObj/TCRMPersonNameBObj/Suffix,//cus_info:MDMPublish/cus_info:customerNotification/cus_info:customer/cus:legalName/cus:suffix,Dr.,555555
+PersonNotificationBObj/TCRMPersonBObj/TCRMPartyPrivPrefBObj/PrivPrefActOptId,//cus_info:MDMPublish/cus_info:customerNotification/cus_info:customer/cus:marketingPreferences/cus:doNotSolicit,Y,111111
+PersonNotificationBObj/TCRMPersonBObj/DeceasedDate,//cus_info:MDMPublish/cus_info:customerNotification/cus_info:customer/cus:eportedDeceasedDate,7/15/2013 4:00,333333

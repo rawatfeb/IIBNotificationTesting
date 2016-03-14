@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TCRMService xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.ibm.com/mdm/schema" xsi:schemaLocation="http://www.ibm.com/mdm/schema MDMDomains.xsd">
+    <ResponseControl>
+        <ResultCode>SUCCESS</ResultCode>
+        <DWLControl>
+            <requesterLanguage>100</requesterLanguage>
+            <requesterLocale>en</requesterLocale>
+            <requesterName>MOHAMMAD.SIDDIQUI</requesterName>
+            <requestID>123</requestID>
+            <requestOrigin>BW</requestOrigin>
+            <userRole>PAGSEC_PROD_UserSSLVPN|CAGGPO_US_Farmers_Environmental|F_Internet - General|F_RATCCUSERS|F_BPS_PLAUSERS|CALSEC_ZFS_Network_Configuration_Operators|CALGPO_US_Farmers_Environmental|PAGORG_External_Zurich_Way_Users_AZ|PALGPO_PROD_eWP_bPOWER_Stub_Installer|PALAPP_BMC_bP_PM_AZCORP_ObsoletePatches</userRole>
+            <requesterTimeZone>EST5EDT</requesterTimeZone>
+        </DWLControl>
+    </ResponseControl>
+    <TCRMTx>
+        <RequestType>MaintainPolicyNotification</RequestType>
+        <TxResult>
+        <ResultCode>SUCCESS</ResultCode>
+        </TxResult>
+        <TCRMObject>
+			<PolicyNotificationBObj>
+				<ComponentID>5020055</ComponentID>
+				<OriginatingSource>BW  Policy Source Test Passed</OriginatingSource>
+				<TxnTimeStamp>2015-11-24 02:58:49.093</TxnTimeStamp>
+				<PolicyNumber>863180509098055</PolicyNumber>
+				<LineOfBusiness>HOME</LineOfBusiness>
+				<AgentType>EA AgentType Test Passed</AgentType>
+				<TCRMContractBObj>
+					<ContractIdPK>315244833392894701</ContractIdPK>
+					<ContractLangType>100</ContractLangType>
+					<ContractLangValue>English</ContractLangValue>
+					<LineOfBusiness>HOME</LineOfBusiness>
+					<CurrencyType>1</CurrencyType>
+					<CurrencyValue>U.S. Dollar</CurrencyValue>
+					<FrequencyModeType>3</FrequencyModeType>
+					<FrequencyModeValue>Quarterly</FrequencyModeValue>
+					<BillingType>4</BillingType>
+					<BillingValue>List Billing</BillingValue>
+					<ServiceProvId>01520</ServiceProvId>
+					<ContractLastUpdateDate>2015-11-23 21:58:48.946</ContractLastUpdateDate>
+					<ContractLastUpdateUser>MOHAMMAD.SIDDIQUI</ContractLastUpdateUser>
+					<ContractLastUpdateTxId>319544833392894101</ContractLastUpdateTxId>
+					<SignedDate>1992-05-07 00:00:00.0</SignedDate>
+					<AgreementType>1000004</AgreementType>
+					<AgreementValue>HOME</AgreementValue>
+					<LastVerifiedDate>1994-05-07 00:00:00.0</LastVerifiedDate>
+					<LastReviewedDate>1991-05-07 00:00:00.0</LastReviewedDate>
+					<TCRMContractComponentBObj>
+						<ContractComponentIdPK>315144833392895301</ContractComponentIdPK>
+						<ContractId>315244833392894701</ContractId>
+						<ContractStatusType>1000001</ContractStatusType>
+						<ContractStatusValue>Active</ContractStatusValue>
+						<IssueDate>1991-05-07 00:00:00.0</IssueDate>
+						<ProductType>1000005</ProductType>
+						<ProductValue>HOME LOANS</ProductValue>
+						<ContractComponentLastUpdateDate>2015-11-23 21:58:48.952</ContractComponentLastUpdateDate>
+						<ContractComponentLastUpdateUser>MOHAMMAD.SIDDIQUI</ContractComponentLastUpdateUser>
+						<ContractComponentLastUpdateTxId>319544833392894101</ContractComponentLastUpdateTxId>
+						<TCRMContractComponentValueBObj>
+							<ContractCompValueIdPK>317744833392903901</ContractCompValueIdPK>
+							<DomainValueType>10000012</DomainValueType>
+							<DomainValueValue>Agent Type</DomainValueValue>
+							<Value>BW Producer Code Test Passed</Value>
+							<ContractComponentId>315144833392895301</ContractComponentId>
+							<DomainType>1</DomainType>
+							<DomainValue>String</DomainValue>
+							<StartDate>2015-11-23 21:58:49.038</StartDate>
+							<ContractComponentValueLastUpdateDate>2015-11-23 21:58:49.038</ContractComponentValueLastUpdateDate>
+							<ContractComponentValueLastUpdateUser>MOHAMMAD.SIDDIQUI</ContractComponentValueLastUpdateUser>
+							<ContractComponentValueLastUpdateTxId>319544833392894101</ContractComponentValueLastUpdateTxId>
+							<DWLStatus>
+								<Status>0</Status>
+							</DWLStatus>
+						</TCRMContractComponentValueBObj>
+						
+						<DWLStatus>
+							<Status>0</Status>
+						</DWLStatus>
+					</TCRMContractComponentBObj>
+					<TCRMAdminNativeKeyBObj>
+						<AdminNativeKeyIdPK>318244833392904001</AdminNativeKeyIdPK>
+						<AdminContractId>863180509098054</AdminContractId>
+						<AdminFieldNameType>1000004</AdminFieldNameType>
+						<AdminFieldNameValue>PCN-BW</AdminFieldNameValue>
+						<AdminSystemType>1000006</AdminSystemType>
+						<AdminSystemValue>BW</AdminSystemValue>
+						<ContractId>315244833392894701</ContractId>
+						<NativeKeyLastUpdateDate>2015-11-23 21:58:49.039</NativeKeyLastUpdateDate>
+						<NativeKeyLastUpdateUser>MOHAMMAD.SIDDIQUI</NativeKeyLastUpdateUser>
+						<NativeKeyLastUpdateTxId>319544833392894101</NativeKeyLastUpdateTxId>
+						<DWLStatus>
+							<Status>0</Status>
+						</DWLStatus>
+					</TCRMAdminNativeKeyBObj>
+					<DWLStatus>
+						<Status>0</Status>
+					</DWLStatus>
+				</TCRMContractBObj>
+			</PolicyNotificationBObj>
+        </TCRMObject>
+    </TCRMTx>
+</TCRMService>

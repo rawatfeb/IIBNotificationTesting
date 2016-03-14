@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TCRMService xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+        xmlns="http://www.ibm.com/mdm/schema" xsi:schemaLocation="http://www.ibm.com/mdm/schema MDMDomains.xsd">
+    <RequestControl>
+        <requestID>10015</requestID>
+        <DWLControl>
+            <requesterName>cusadmin</requesterName>
+            <requesterLanguage>100</requesterLanguage>
+        </DWLControl>
+    </RequestControl>
+    <TCRMTx>
+        <TCRMTxType></TCRMTxType>
+        <TCRMTxObject>BillingNotificationBObj</TCRMTxObject>
+        <TCRMObject>
+              <BillingNotificationBObj>
+					 <ObjectReferenceId></ObjectReferenceId>
+					 <OriginatingSource>PLA System 
+					 Traailing     
+					 Space
+					 </OriginatingSource>
+					 <TxnTimeStamp>2015-02-05 08:08:32.114</TxnTimeStamp>
+					 <BillingAccountNumber>14487954212</BillingAccountNumber>	
+				<TCRMContractBObj>
+               <ContractIdPK>136641487023938101</ContractIdPK>
+               <ContractLangType>100</ContractLangType>
+               <ContractLangValue>English</ContractLangValue>
+               <CurrencyType>1</CurrencyType>
+               <CurrencyValue>U.S. Dollar</CurrencyValue>
+               <FrequencyModeType>1000004</FrequencyModeType>
+               <FrequencyModeValue>2-Pay-12 Months</FrequencyModeValue>
+               <BillingType>1000003</BillingType>
+               <BillingValue>Neither EFT Nor Credit Card</BillingValue>
+               <ContractLastUpdateDate>2014-11-01 15:30:39.39</ContractLastUpdateDate>
+               <ContractLastUpdateUser>etl</ContractLastUpdateUser>
+               <ContractLastUpdateTxId>144741487023935001</ContractLastUpdateTxId>
+               <ManagedAccountIndicator>Y</ManagedAccountIndicator>
+               <AgreementStatusType>1000002</AgreementStatusType>
+               <AgreementStatusValue>Active</AgreementStatusValue>
+               <AgreementType>1000005</AgreementType>
+               <AgreementValue>BILLING</AgreementValue>
+               <LastVerifiedDate>2014-03-22 19:11:46.0</LastVerifiedDate>
+               <TCRMContractComponentBObj>
+							  <ContractComponentIdPK>784841507409016101</ContractComponentIdPK>
+							  <ContractId>783041507409014001</ContractId>
+							  <ContractStatusType>1000002</ContractStatusType>
+							  <ContractStatusValue>Cancel</ContractStatusValue>
+							  <IssueDate>2010-10-18 00:00:00.0</IssueDate>
+							  <ProductType>1000143</ProductType>
+							  <ProductValue>FA 2.5</ProductValue>
+							  <ContractComponentLastUpdateDate>2014-11-03 23:08:10.16</ContractComponentLastUpdateDate>
+							  <ContractComponentLastUpdateUser>etl</ContractComponentLastUpdateUser>
+							  <ContractComponentLastUpdateTxId>781641507409012101</ContractComponentLastUpdateTxId>
+							  <ExpiryDate>2014-07-04 00:00:00.0</ExpiryDate>
+							  <TCRMContractPartyRoleBObj>
+								 <ContractRoleIdPK>787441507409016301</ContractRoleIdPK>
+								 <PartyId>784941486775343001</PartyId>
+								 <ContractComponentId>784841507409016101</ContractComponentId>
+								 <RoleType>1000001</RoleType>
+								 <RoleValue>Primary Named Insured</RoleValue>
+								 <StartDate>2014-11-03 23:08:10.162</StartDate>
+								 <RecordedStartDate>2014-03-10 03:57:15.539636</RecordedStartDate>
+								 <ContractPartyRoleLastUpdateDate>2014-11-03 23:08:10.162</ContractPartyRoleLastUpdateDate>
+								 <ContractPartyRoleLastUpdateUser>etl</ContractPartyRoleLastUpdateUser>
+								 <ContractPartyRoleLastUpdateTxId>781641507409012101</ContractPartyRoleLastUpdateTxId>
+								 <TCRMPersonBObj>
+									<PartyId>784941486775343001</PartyId>
+									<DisplayName>CROSSIE J MOJICA-MORALES</DisplayName>
+									<PartyType>P</PartyType>
+									<CreatedDate>2014-11-01 14:49:13.093</CreatedDate>
+									<SinceDate>1996-01-01 00:00:00.0</SinceDate>
+									<LastVerifiedDate>2002-03-18 15:19:21.883795</LastVerifiedDate>
+									<SourceIdentifierType>1000001</SourceIdentifierType>
+									<SourceIdentifierValue>PLA</SourceIdentifierValue>
+									<PartyLastUpdateDate>2014-11-01 14:49:13.429</PartyLastUpdateDate>
+									<PartyLastUpdateUser>etl</PartyLastUpdateUser>
+									<PartyLastUpdateTxId>907241486775306001</PartyLastUpdateTxId>
+									<PersonPartyId>784941486775343001</PersonPartyId>
+									<BirthDate>1931-04-04 00:00:00.0</BirthDate>
+									<GenderType>M</GenderType>
+									<MaritalStatusType>1</MaritalStatusType>
+									<MaritalStatusValue>Married</MaritalStatusValue>
+									<PartyActiveIndicator>Y</PartyActiveIndicator>
+									<PersonLastUpdateDate>2014-11-01 14:49:13.431</PersonLastUpdateDate>
+									<PersonLastUpdateUser>etl</PersonLastUpdateUser>
+									<PersonLastUpdateTxId>907241486775306001</PersonLastUpdateTxId>
+									<TCRMPartyIdentificationBObj>
+									   <IdentificationIdPK>787941486775345001</IdentificationIdPK>
+									   <PartyId>784941486775343001</PartyId>
+									   <IdentificationType>1</IdentificationType>
+									   <IdentificationValue>Social Security Number</IdentificationValue>
+									   <IdentificationNumber>XXXXX3405</IdentificationNumber>
+									   <StartDate>2014-11-01 14:49:13.45</StartDate>
+									   <LastVerifiedDate>2002-03-18 15:19:21.883795</LastVerifiedDate>
+									   <SourceIdentifierType>1000001</SourceIdentifierType>
+									   <SourceIdentifierValue>PLA</SourceIdentifierValue>
+									   <PartyIdentificationLastUpdateDate>2014-11-01 14:49:13.449</PartyIdentificationLastUpdateDate>
+									   <PartyIdentificationLastUpdateUser>etl</PartyIdentificationLastUpdateUser>
+									   <PartyIdentificationLastUpdateTxId>907241486775306001</PartyIdentificationLastUpdateTxId>
+									   <DWLStatus>
+										  <Status>0</Status>
+									   </DWLStatus>
+									</TCRMPartyIdentificationBObj>
+									<TCRMPartyIdentificationBObj>
+									   <IdentificationIdPK>782541486775345201</IdentificationIdPK>
+									   <PartyId>784941486775343001</PartyId>
+									   <IdentificationType>3</IdentificationType>
+									   <IdentificationValue>Driver's Licence Number</IdentificationValue>
+									   <IdentificationNumber>B13935453</IdentificationNumber>
+									   <StartDate>2013-11-14 00:00:00.0</StartDate>
+									   <IdentificationIssueLocation>AZ</IdentificationIssueLocation>
+									   <LastVerifiedDate>2013-09-04 11:29:54.645874</LastVerifiedDate>
+									   <SourceIdentifierType>1000001</SourceIdentifierType>
+									   <SourceIdentifierValue>PLA</SourceIdentifierValue>
+									   <PartyIdentificationLastUpdateDate>2014-11-01 14:49:13.452</PartyIdentificationLastUpdateDate>
+									   <PartyIdentificationLastUpdateUser>etl</PartyIdentificationLastUpdateUser>
+									   <PartyIdentificationLastUpdateTxId>907241486775306001</PartyIdentificationLastUpdateTxId>
+									   <DWLStatus>
+										  <Status>0</Status>
+									   </DWLStatus>
+									</TCRMPartyIdentificationBObj>
+									<TCRMPartyIdentificationBObj>
+									   <IdentificationIdPK>2151859</IdentificationIdPK>
+									   <PartyId>784941486775343001</PartyId>
+									   <IdentificationType>1000001</IdentificationType>
+									   <IdentificationValue>ECN</IdentificationValue>
+									   <IdentificationNumber>2151859</IdentificationNumber>
+									   <StartDate>2014-11-11 15:09:09.520423</StartDate>
+									   <LastVerifiedDate>2014-11-11 15:09:09.520423</LastVerifiedDate>
+									   <PartyIdentificationLastUpdateDate>2014-11-11 15:09:09.520423</PartyIdentificationLastUpdateDate>
+									   <PartyIdentificationLastUpdateUser>MDMUSER</PartyIdentificationLastUpdateUser>
+									   <DWLStatus>
+										  <Status>0</Status>
+									   </DWLStatus>
+									</TCRMPartyIdentificationBObj>
+									<TCRMPersonNameBObj>
+									   <PersonNameIdPK>787341486775344101</PersonNameIdPK>
+									   <NameUsageType>1</NameUsageType>
+									   <NameUsageValue>Legal</NameUsageValue>
+									   <GivenNameOne>CROSSIE</GivenNameOne>
+									   <StdGivenNameOne>CROSSIE</StdGivenNameOne>
+									   <GivenNameTwo>J</GivenNameTwo>
+									   <StdGivenNameTwo>J</StdGivenNameTwo>
+									   <LastName>MOJICA-MORALES</LastName>
+									   <StdLastName>MOJICA-MORALES</StdLastName>
+									   <PersonPartyId>784941486775343001</PersonPartyId>
+									   <StartDate>2014-11-01 14:49:13.44</StartDate>
+									   <LastVerifiedDate>2002-03-18 15:19:21.883795</LastVerifiedDate>
+									   <SourceIdentifierType>1000001</SourceIdentifierType>
+									   <SourceIdentifierValue>PLA</SourceIdentifierValue>
+									   <PersonNameLastUpdateDate>2014-11-01 14:49:13.44</PersonNameLastUpdateDate>
+									   <PersonNameLastUpdateUser>etl</PersonNameLastUpdateUser>
+									   <PersonNameLastUpdateTxId>907241486775306001</PersonNameLastUpdateTxId>
+									   <LastUpdatedBy>etl</LastUpdatedBy>
+									   <LastUpdatedDate>2014-11-01 14:49:13.44</LastUpdatedDate>
+									   <DWLStatus>
+										  <Status>0</Status>
+									   </DWLStatus>
+									</TCRMPersonNameBObj>
+									<DWLStatus>
+									   <Status>0</Status>
+									</DWLStatus>
+								 </TCRMPersonBObj>
+								 <TCRMContractRoleLocationBObj>
+									<ContractRoleLocationIdPK>786041507409021001</ContractRoleLocationIdPK>
+									<LocationGroupId>789441486775348301</LocationGroupId>
+									<ContractRoleId>787441507409016301</ContractRoleId>
+									<StartDate>2014-11-03 23:08:10.209</StartDate>
+									<ContractRoleLocationLastUpdateDate>2014-11-03 23:08:10.209</ContractRoleLocationLastUpdateDate>
+									<ContractRoleLocationLastUpdateUser>etl</ContractRoleLocationLastUpdateUser>
+									<ContractRoleLocationLastUpdateTxId>781641507409012101</ContractRoleLocationLastUpdateTxId>
+									<DWLStatus>
+									   <Status>0</Status>
+									</DWLStatus>
+									<TCRMPartyAddressBObj>
+									   <PartyAddressIdPK>789441486775348301</PartyAddressIdPK>
+									   <PartyId>784941486775343001</PartyId>
+									   <AddressId>944541482045144101</AddressId>
+									   <AddressUsageType>1000001</AddressUsageType>
+									   <AddressUsageValue>Billing</AddressUsageValue>
+									   <StartDate>2014-11-01 14:49:13.482</StartDate>
+									   <LastVerifiedDate>2014-03-22 19:11:59.0</LastVerifiedDate>
+									   <SourceIdentifierType>1000003</SourceIdentifierType>
+									   <SourceIdentifierValue>Billing</SourceIdentifierValue>
+									   <AddressGroupLastUpdateDate>2014-11-01 14:49:13.488</AddressGroupLastUpdateDate>
+									   <AddressGroupLastUpdateUser>etl</AddressGroupLastUpdateUser>
+									   <AddressGroupLastUpdateTxId>907241486775306001</AddressGroupLastUpdateTxId>
+									   <LocationGroupLastUpdateDate>2014-11-01 14:49:13.482</LocationGroupLastUpdateDate>
+									   <LocationGroupLastUpdateUser>etl</LocationGroupLastUpdateUser>
+									   <LocationGroupLastUpdateTxId>907241486775306001</LocationGroupLastUpdateTxId>
+									   <TCRMAddressBObj>
+										  <AddressIdPK>944541482045144101</AddressIdPK>
+										  <AddressLineOne>212 N Nightfall Ave</AddressLineOne>
+										  <City>Tucson</City>
+										  <ZipPostalCode>85748-3710</ZipPostalCode>
+										  <ProvinceStateType>4</ProvinceStateType>
+										  <ProvinceStateValue>AZ</ProvinceStateValue>
+										  <CountryType>185</CountryType>
+										  <CountryValue>United States of America</CountryValue>
+										  <StandardFormatingIndicator>Y</StandardFormatingIndicator>
+										  <StandardFormatingOverride>Y</StandardFormatingOverride>
+										  <LatitudeDegrees>32.223458</LatitudeDegrees>
+										  <LongitudeDegrees>-110.763550</LongitudeDegrees>
+										  <AddressLastUpdateDate>2014-11-01 01:40:51.441</AddressLastUpdateDate>
+										  <AddressLastUpdateUser>etl</AddressLastUpdateUser>
+										  <AddressLastUpdateTxId>404741482045100301</AddressLastUpdateTxId>
+									   </TCRMAddressBObj>
+									</TCRMPartyAddressBObj>
+								 </TCRMContractRoleLocationBObj>
+								 <TCRMContractRoleLocationBObj>
+									<ContractRoleLocationIdPK>786041507409021001</ContractRoleLocationIdPK>
+									<LocationGroupId>789441486775348301</LocationGroupId>
+									<ContractRoleId>787441507409016301</ContractRoleId>
+									<StartDate>2014-11-03 23:08:10.209</StartDate>
+									<ContractRoleLocationLastUpdateDate>2014-11-03 23:08:10.209</ContractRoleLocationLastUpdateDate>
+									<ContractRoleLocationLastUpdateUser>etl</ContractRoleLocationLastUpdateUser>
+									<ContractRoleLocationLastUpdateTxId>781641507409012101</ContractRoleLocationLastUpdateTxId>
+									<DWLStatus>
+									   <Status>0</Status>
+									</DWLStatus>
+									<TCRMPartyAddressBObj>
+									   <PartyAddressIdPK>789441486775348301</PartyAddressIdPK>
+									   <PartyId>784941486775343001</PartyId>
+									   <AddressId>944541482045144101</AddressId>
+									   <AddressUsageType>1000001</AddressUsageType>
+									   <AddressUsageValue>Billing</AddressUsageValue>
+									   <StartDate>2014-11-01 14:49:13.482</StartDate>
+									   <LastVerifiedDate>2014-03-22 19:11:59.0</LastVerifiedDate>
+									   <SourceIdentifierType>1000003</SourceIdentifierType>
+									   <SourceIdentifierValue>Billing</SourceIdentifierValue>
+									   <AddressGroupLastUpdateDate>2014-11-01 14:49:13.488</AddressGroupLastUpdateDate>
+									   <AddressGroupLastUpdateUser>etl</AddressGroupLastUpdateUser>
+									   <AddressGroupLastUpdateTxId>907241486775306001</AddressGroupLastUpdateTxId>
+									   <LocationGroupLastUpdateDate>2014-11-01 14:49:13.482</LocationGroupLastUpdateDate>
+									   <LocationGroupLastUpdateUser>etl</LocationGroupLastUpdateUser>
+									   <LocationGroupLastUpdateTxId>907241486775306001</LocationGroupLastUpdateTxId>
+									   <TCRMAddressBObj>
+										  <AddressIdPK>944541482045144101</AddressIdPK>
+										  <AddressLineOne>212 N Nightfall Ave</AddressLineOne>
+										  <City>Tucson</City>
+										  <ZipPostalCode>85748-3710</ZipPostalCode>
+										  <ProvinceStateType>4</ProvinceStateType>
+										  <ProvinceStateValue>AZ</ProvinceStateValue>
+										  <CountryType>185</CountryType>
+										  <CountryValue>United States of America</CountryValue>
+										  <StandardFormatingIndicator>Y</StandardFormatingIndicator>
+										  <StandardFormatingOverride>Y</StandardFormatingOverride>
+										  <LatitudeDegrees>32.223458</LatitudeDegrees>
+										  <LongitudeDegrees>-110.763550</LongitudeDegrees>
+										  <AddressLastUpdateDate>2014-11-01 01:40:51.441</AddressLastUpdateDate>
+										  <AddressLastUpdateUser>etl</AddressLastUpdateUser>
+										  <AddressLastUpdateTxId>404741482045100301</AddressLastUpdateTxId>
+									   </TCRMAddressBObj>
+									</TCRMPartyAddressBObj>
+								 </TCRMContractRoleLocationBObj>
+								 <DWLStatus>
+									<Status>0</Status>
+								 </DWLStatus>
+							  </TCRMContractPartyRoleBObj>
+							  <TCRMContractComponentValueBObj>
+								 <ContractCompValueIdPK>783341507409023301</ContractCompValueIdPK>
+								 <DomainValueType>1000002</DomainValueType>
+								 <DomainValueValue>Opt Out Indicator</DomainValueValue>
+								 <Value>N</Value>
+								 <ContractComponentId>784841507409016101</ContractComponentId>
+								 <DomainType>1</DomainType>
+								 <DomainValue>String</DomainValue>
+								 <StartDate>2014-11-03 23:08:10.232</StartDate>
+								 <ContractComponentValueLastUpdateDate>2014-11-03 23:08:10.232</ContractComponentValueLastUpdateDate>
+								 <ContractComponentValueLastUpdateUser>etl</ContractComponentValueLastUpdateUser>
+								 <ContractComponentValueLastUpdateTxId>781641507409012101</ContractComponentValueLastUpdateTxId>
+								 <DWLStatus>
+									<Status>0</Status>
+								 </DWLStatus>
+							  </TCRMContractComponentValueBObj>
+							  <TCRMContractComponentValueBObj>
+								 <ContractCompValueIdPK>783341507409023301</ContractCompValueIdPK>
+								 <DomainValueType>1000002</DomainValueType>
+								 <DomainValueValue>Opt Out Indicator</DomainValueValue>
+								 <Value>N</Value>
+								 <ContractComponentId>784841507409016101</ContractComponentId>
+								 <DomainType>1</DomainType>
+								 <DomainValue>String</DomainValue>
+								 <StartDate>2014-11-03 23:08:10.232</StartDate>
+								 <ContractComponentValueLastUpdateDate>2014-11-03 23:08:10.232</ContractComponentValueLastUpdateDate>
+								 <ContractComponentValueLastUpdateUser>etl</ContractComponentValueLastUpdateUser>
+								 <ContractComponentValueLastUpdateTxId>781641507409012101</ContractComponentValueLastUpdateTxId>
+								 <DWLStatus>
+									<Status>0</Status>
+								 </DWLStatus>
+							  </TCRMContractComponentValueBObj>
+							  <TCRMContractComponentValueBObj>
+								 <ContractCompValueIdPK>783341507409023301</ContractCompValueIdPK>
+								 <DomainValueType>1000001</DomainValueType>
+								 <DomainValueValue>E Policy Flag</DomainValueValue>
+								 <Value>N</Value>
+								 <ContractComponentId>784841507409016101</ContractComponentId>
+								 <DomainType>1</DomainType>
+								 <DomainValue>String</DomainValue>
+								 <StartDate>2014-11-03 23:08:10.232</StartDate>
+								 <ContractComponentValueLastUpdateDate>2014-11-03 23:08:10.232</ContractComponentValueLastUpdateDate>
+								 <ContractComponentValueLastUpdateUser>etl</ContractComponentValueLastUpdateUser>
+								 <ContractComponentValueLastUpdateTxId>781641507409012101</ContractComponentValueLastUpdateTxId>
+								 <DWLStatus>
+									<Status>0</Status>
+								 </DWLStatus>
+							  </TCRMContractComponentValueBObj>
+							  <TCRMContractComponentValueBObj>
+								 <ContractCompValueIdPK>783341507409023301</ContractCompValueIdPK>
+								 <DomainValueType>1000001</DomainValueType>
+								 <DomainValueValue>E Policy Flag</DomainValueValue>
+								 <Value>N</Value>
+								 <ContractComponentId>784841507409016101</ContractComponentId>
+								 <DomainType>1</DomainType>
+								 <DomainValue>String</DomainValue>
+								 <StartDate>2014-11-03 23:08:10.232</StartDate>
+								 <ContractComponentValueLastUpdateDate>2014-11-03 23:08:10.232</ContractComponentValueLastUpdateDate>
+								 <ContractComponentValueLastUpdateUser>etl</ContractComponentValueLastUpdateUser>
+								 <ContractComponentValueLastUpdateTxId>781641507409012101</ContractComponentValueLastUpdateTxId>
+								 <DWLStatus>
+									<Status>0</Status>
+								 </DWLStatus>
+							  </TCRMContractComponentValueBObj>
+							  <TCRMContractComponentValueBObj>
+								 <ContractCompValueIdPK>784741507409024201</ContractCompValueIdPK>
+								 <DomainValueType>1000003</DomainValueType>
+								 <DomainValueValue>Policy Term Length</DomainValueValue>
+								 <Value>6</Value>
+								 <ContractComponentId>784841507409016101</ContractComponentId>
+								 <DomainType>2</DomainType>
+								 <DomainValue>Integer</DomainValue>
+								 <StartDate>2014-11-03 23:08:10.241</StartDate>
+								 <ContractComponentValueLastUpdateDate>2014-11-03 23:08:10.241</ContractComponentValueLastUpdateDate>
+								 <ContractComponentValueLastUpdateUser>etl</ContractComponentValueLastUpdateUser>
+								 <ContractComponentValueLastUpdateTxId>781641507409012101</ContractComponentValueLastUpdateTxId>
+								 <DWLStatus>
+									<Status>0</Status>
+								 </DWLStatus>
+							  </TCRMContractComponentValueBObj>
+							   <TCRMContractComponentValueBObj>
+								 <ContractCompValueIdPK>784741507409024201</ContractCompValueIdPK>
+								 <DomainValueType>1000004</DomainValueType>
+								 <DomainValueValue>Policy Term Length</DomainValueValue>
+								 <Value>4</Value>
+								 <ContractComponentId>784841507409016101</ContractComponentId>
+								 <DomainType>2</DomainType>
+								 <DomainValue>Integer</DomainValue>
+								 <StartDate>2014-11-03 23:08:10.241</StartDate>
+								 <ContractComponentValueLastUpdateDate>2014-11-03 23:08:10.241</ContractComponentValueLastUpdateDate>
+								 <ContractComponentValueLastUpdateUser>etl</ContractComponentValueLastUpdateUser>
+								 <ContractComponentValueLastUpdateTxId>781641507409012101</ContractComponentValueLastUpdateTxId>
+								 <DWLStatus>
+									<Status>0</Status>
+								 </DWLStatus>
+							  </TCRMContractComponentValueBObj>
+							    <TCRMContractComponentValueBObj>
+								 <ContractCompValueIdPK>784741507409024201</ContractCompValueIdPK>
+								 <DomainValueType>1000005</DomainValueType>
+								 <DomainValueValue>Policy Term Length</DomainValueValue>
+								 <Value>5</Value>
+								 <ContractComponentId>784841507409016101</ContractComponentId>
+								 <DomainType>2</DomainType>
+								 <DomainValue>Integer</DomainValue>
+								 <StartDate>2014-11-03 23:08:10.241</StartDate>
+								 <ContractComponentValueLastUpdateDate>2014-11-03 23:08:10.241</ContractComponentValueLastUpdateDate>
+								 <ContractComponentValueLastUpdateUser>etl</ContractComponentValueLastUpdateUser>
+								 <ContractComponentValueLastUpdateTxId>781641507409012101</ContractComponentValueLastUpdateTxId>
+								 <DWLStatus>
+									<Status>0</Status>
+								 </DWLStatus>
+							  </TCRMContractComponentValueBObj>
+							  <TCRMContractComponentValueBObj>
+								 <ContractCompValueIdPK>784741507409024201</ContractCompValueIdPK>
+								 <DomainValueType>1000007</DomainValueType>
+								 <DomainValueValue>Policy Term Length</DomainValueValue>
+								 <Value>7</Value>
+								 <ContractComponentId>784841507409016101</ContractComponentId>
+								 <DomainType>2</DomainType>
+								 <DomainValue>Integer</DomainValue>
+								 <StartDate>2014-11-03 23:08:10.241</StartDate>
+								 <ContractComponentValueLastUpdateDate>2014-11-03 23:08:10.241</ContractComponentValueLastUpdateDate>
+								 <ContractComponentValueLastUpdateUser>etl</ContractComponentValueLastUpdateUser>
+								 <ContractComponentValueLastUpdateTxId>781641507409012101</ContractComponentValueLastUpdateTxId>
+								 <DWLStatus>
+									<Status>0</Status>
+								 </DWLStatus>
+							  </TCRMContractComponentValueBObj>
+							  <TCRMContractComponentValueBObj>
+								 <ContractCompValueIdPK>784741507409024201</ContractCompValueIdPK>
+								 <DomainValueType>1000003</DomainValueType>
+								 <DomainValueValue>Policy Term Length</DomainValueValue>
+								 <Value>6</Value>
+								 <ContractComponentId>784841507409016101</ContractComponentId>
+								 <DomainType>2</DomainType>
+								 <DomainValue>Integer</DomainValue>
+								 <StartDate>2014-11-03 23:08:10.241</StartDate>
+								 <ContractComponentValueLastUpdateDate>2014-11-03 23:08:10.241</ContractComponentValueLastUpdateDate>
+								 <ContractComponentValueLastUpdateUser>etl</ContractComponentValueLastUpdateUser>
+								 <ContractComponentValueLastUpdateTxId>781641507409012101</ContractComponentValueLastUpdateTxId>
+								 <DWLStatus>
+									<Status>0</Status>
+								 </DWLStatus>
+							  </TCRMContractComponentValueBObj>
+							  <DWLStatus>
+								 <Status>0</Status>
+							  </DWLStatus>
+						   </TCRMContractComponentBObj>
+               <TCRMAdminNativeKeyBObj>
+                  <AdminNativeKeyIdPK>133341487023945201</AdminNativeKeyIdPK>
+                  <AdminContractId>126548</AdminContractId>
+                  <AdminFieldNameType>1000003</AdminFieldNameType>
+                  <AdminFieldNameValue>Billing Account Number</AdminFieldNameValue>
+                  <AdminSystemType>1000005</AdminSystemType>
+                  <AdminSystemValue>Billing</AdminSystemValue>
+                  <ContractId>136641487023938101</ContractId>
+                  <NativeKeyLastUpdateDate>2014-11-01 15:30:39.451</NativeKeyLastUpdateDate>
+                  <NativeKeyLastUpdateUser>etl</NativeKeyLastUpdateUser>
+                  <NativeKeyLastUpdateTxId>144741487023935001</NativeKeyLastUpdateTxId>
+                  <DWLStatus>
+                     <Status>0</Status>
+                  </DWLStatus>
+               </TCRMAdminNativeKeyBObj>
+			   <TCRMAdminNativeKeyBObj>
+                  <AdminNativeKeyIdPK>133341487023945201</AdminNativeKeyIdPK>
+				  <AdminContractId>B7056721</AdminContractId>
+                  <AdminFieldNameType>1000003</AdminFieldNameType>
+                  <AdminFieldNameValue>Billing Account Number</AdminFieldNameValue>
+                  <AdminSystemType>1000005</AdminSystemType>
+                  <AdminSystemValue>Billing</AdminSystemValue>
+                  <ContractId>136641487023938101</ContractId>
+                  <NativeKeyLastUpdateDate>2014-11-01 15:30:39.451</NativeKeyLastUpdateDate>
+                  <NativeKeyLastUpdateUser>etl</NativeKeyLastUpdateUser>
+                  <NativeKeyLastUpdateTxId>144741487023935001</NativeKeyLastUpdateTxId>
+                  <DWLStatus>
+                     <Status>0</Status>
+                  </DWLStatus>
+               </TCRMAdminNativeKeyBObj>
+               <DWLStatus>
+                  <Status>0</Status>
+               </DWLStatus>
+            </TCRMContractBObj>
+			  </BillingNotificationBObj>
+		</TCRMObject>
+    </TCRMTx>
+</TCRMService> 
+

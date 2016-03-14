@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TCRMService xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.ibm.com/mdm/schema" xsi:schemaLocation="http://www.ibm.com/mdm/schema MDMDomains.xsd">
+    <ResponseControl>
+        <ResultCode>SUCCESS</ResultCode>
+        <DWLControl>
+            <requesterLanguage>100</requesterLanguage>
+            <requesterLocale>en</requesterLocale>
+            <requesterName>mdmadmin</requesterName>
+            <requestID>123</requestID>
+            <userRole>mdm_admin</userRole>
+            <requesterTimeZone>CST6CDT</requesterTimeZone>
+        </DWLControl>
+    </ResponseControl>
+    <TCRMTx>
+        <RequestType>MaintainPartyNotification</RequestType>
+        <TxResult>
+        <ResultCode>SUCCESS</ResultCode>
+        </TxResult>
+        <TCRMObject>
+			<PersonNotificationBObj>
+				<ComponentID>5020047</ComponentID>
+				<TxnTimeStamp>2016-01-19 10:24:07.211</TxnTimeStamp>
+				<TCRMAdminContEquivBObj>
+					<AdminContEquivIdPK>228845289805772801</AdminContEquivIdPK>
+					<PartyId>224645289805631801</PartyId>
+					<AdminPartyId>0152354467:0827474195</AdminPartyId>
+					<AdminSystemType>1000001</AdminSystemType>
+					<AdminSystemValue>PLA</AdminSystemValue>
+					<ContEquivLastUpdateDate>2016-01-15 22:47:37.727</ContEquivLastUpdateDate>
+					<ContEquivLastUpdateUser>mdmadmin</ContEquivLastUpdateUser>
+					<ContEquivLastUpdateTxId>227345289805586301</ContEquivLastUpdateTxId>
+				</TCRMAdminContEquivBObj>
+				<TCRMPartyIdentificationBObj>
+					<IdentificationIdPK>228245289805668801</IdentificationIdPK>
+					<PartyId>224645289805631801</PartyId>
+					<IdentificationType>3</IdentificationType>
+					<IdentificationValue>Driver&apos;s Licence Number</IdentificationValue>
+					<IdentificationNumber>Z3219870</IdentificationNumber>
+					<StartDate>2016-01-11 03:57:15.71326</StartDate>
+					<IdentificationIssueLocation>CA</IdentificationIssueLocation>
+					<LastVerifiedDate>2016-01-11 03:57:15.71326</LastVerifiedDate>
+					<SourceIdentifierType>1000001</SourceIdentifierType>
+					<SourceIdentifierValue>PLA</SourceIdentifierValue>
+					<PartyIdentificationLastUpdateDate>2016-01-15 22:47:36.687</PartyIdentificationLastUpdateDate>
+					<PartyIdentificationLastUpdateUser>mdmadmin</PartyIdentificationLastUpdateUser>
+					<PartyIdentificationLastUpdateTxId>227345289805586301</PartyIdentificationLastUpdateTxId>
+				</TCRMPartyIdentificationBObj>
+				<TCRMPartyIdentificationBObj>
+					<IdentificationIdPK>224845289805673601</IdentificationIdPK>
+					<PartyId>224645289805631801</PartyId>
+					<IdentificationType>1</IdentificationType>
+					<IdentificationValue>Social Security Number</IdentificationValue>
+					<IdentificationNumber>123211222</IdentificationNumber>
+					<StartDate>2016-01-11 03:57:15.71326</StartDate>
+					<LastVerifiedDate>2016-01-11 03:57:15.71326</LastVerifiedDate>
+					<SourceIdentifierType>1000001</SourceIdentifierType>
+					<SourceIdentifierValue>PLA</SourceIdentifierValue>
+					<PartyIdentificationLastUpdateDate>2016-01-15 22:47:36.735</PartyIdentificationLastUpdateDate>
+					<PartyIdentificationLastUpdateUser>mdmadmin</PartyIdentificationLastUpdateUser>
+					<PartyIdentificationLastUpdateTxId>227345289805586301</PartyIdentificationLastUpdateTxId>
+				</TCRMPartyIdentificationBObj>
+				<TCRMPartyIdentificationBObj>
+					<IdentificationIdPK>225545289805790401</IdentificationIdPK>
+					<PartyId>224645289805631801</PartyId>
+					<IdentificationType>1000001</IdentificationType>
+					<IdentificationValue>ECN</IdentificationValue>
+					<IdentificationNumber>381942</IdentificationNumber>
+					<StartDate>2016-01-15 22:47:37.903</StartDate>
+					<LastVerifiedDate>2016-01-15 16:47:37.902</LastVerifiedDate>
+					<PartyIdentificationLastUpdateDate>2016-01-15 22:47:37.903</PartyIdentificationLastUpdateDate>
+					<PartyIdentificationLastUpdateUser>mdmadmin</PartyIdentificationLastUpdateUser>
+					<PartyIdentificationLastUpdateTxId>227345289805586301</PartyIdentificationLastUpdateTxId>
+				</TCRMPartyIdentificationBObj>
+				<TCRMPersonBObj>
+					<PartyId>224645289805631801</PartyId>
+					<DisplayName>BARDWAZ SURAJ</DisplayName>
+					<PartyType>P</PartyType>
+					<CreatedDate>2016-01-19 10:24:07.098</CreatedDate>
+					<SinceDate>2016-01-10 00:00:00.0</SinceDate>
+					<LastVerifiedDate>2016-01-19 16:24:06.0</LastVerifiedDate>
+					<SourceIdentifierType>1000001</SourceIdentifierType>
+					<SourceIdentifierValue>PLA</SourceIdentifierValue>
+					<PartyLastUpdateDate>2016-01-19 10:24:06.8</PartyLastUpdateDate>
+					<PartyLastUpdateUser>cusadmin</PartyLastUpdateUser>
+					<PartyLastUpdateTxId>222045319904679201</PartyLastUpdateTxId>
+					<PersonPartyId>224645289805631801</PersonPartyId>
+					<BirthDate>1980-01-07 00:00:00.0</BirthDate>
+					<GenderType>M</GenderType>
+					<MaritalStatusType>2</MaritalStatusType>
+					<MaritalStatusValue>Single</MaritalStatusValue>
+					<PartyActiveIndicator>Y</PartyActiveIndicator>
+					<PersonLastUpdateDate>2016-01-19 10:24:06.892</PersonLastUpdateDate>
+					<PersonLastUpdateUser>cusadmin</PersonLastUpdateUser>
+					<PersonLastUpdateTxId>222045319904679201</PersonLastUpdateTxId>
+					<TCRMPartyPrivPrefBObj>
+						<PartyId>224645289805631801</PartyId>
+						<PartyPrivPrefIdPK>226545319904704801</PartyPrivPrefIdPK>
+						<PrivPrefEntity>CONTACT</PrivPrefEntity>
+						<PrivPrefReasonType>1000001</PrivPrefReasonType>
+						<PrivPrefReasonValue>Recorded By Agent</PrivPrefReasonValue>
+						<SourceIdentType>1000011</SourceIdentType>
+						<SourceIdentValue>ServiceOps</SourceIdentValue>
+						<StartDate>2016-01-19 10:24:07.047</StartDate>
+						<PrivPrefActOptId>1000002</PrivPrefActOptId>
+						<PrivPrefType>1000001</PrivPrefType>
+						<PrivPrefValue>Call</PrivPrefValue>
+						<EntityPrivPrefLastUpdateDate>2016-01-19 10:24:07.07</EntityPrivPrefLastUpdateDate>
+						<EntityPrivPrefLastUpdateUser>cusadmin</EntityPrivPrefLastUpdateUser>
+						<PrivPrefLastUpdateDate>2016-01-19 10:24:07.047</PrivPrefLastUpdateDate>
+						<PrivPrefLastUpdateUser>cusadmin</PrivPrefLastUpdateUser>
+						<PrivPrefCatType>1000001</PrivPrefCatType>
+						<PrivPrefCatValue>Agent</PrivPrefCatValue>
+						<PrivPrefActionType>6</PrivPrefActionType>
+						<PrivPrefActionValue>Do Not Solicit</PrivPrefActionValue>
+						<PrivPrefIdPK>226545319904704801</PrivPrefIdPK>
+						<PrivPrefLastUpdateTxId>222045319904679201</PrivPrefLastUpdateTxId>
+						<PrivPrefInstancePK>224645289805631801</PrivPrefInstancePK>
+						<EntityPrivPrefLastUpdateTxId>222045319904679201</EntityPrivPrefLastUpdateTxId>
+					</TCRMPartyPrivPrefBObj>
+					<TCRMPartyPrivPrefBObj>
+						<PartyId>224645289805631801</PartyId>
+						<PartyPrivPrefIdPK>227545319904709201</PartyPrivPrefIdPK>
+						<PrivPrefEntity>CONTACT</PrivPrefEntity>
+						<PrivPrefReasonType>1000001</PrivPrefReasonType>
+						<PrivPrefReasonValue>Recorded By Agent</PrivPrefReasonValue>
+						<SourceIdentType>1000011</SourceIdentType>
+						<SourceIdentValue>ServiceOps</SourceIdentValue>
+						<StartDate>2016-01-19 10:24:07.091</StartDate>
+						<PrivPrefActOptId>1000004</PrivPrefActOptId>
+						<PrivPrefType>1000002</PrivPrefType>
+						<PrivPrefValue>Email</PrivPrefValue>
+						<EntityPrivPrefLastUpdateDate>2016-01-19 10:24:07.092</EntityPrivPrefLastUpdateDate>
+						<EntityPrivPrefLastUpdateUser>cusadmin</EntityPrivPrefLastUpdateUser>
+						<PrivPrefLastUpdateDate>2016-01-19 10:24:07.091</PrivPrefLastUpdateDate>
+						<PrivPrefLastUpdateUser>cusadmin</PrivPrefLastUpdateUser>
+						<PrivPrefCatType>1000001</PrivPrefCatType>
+						<PrivPrefCatValue>Agent</PrivPrefCatValue>
+						<PrivPrefActionType>6</PrivPrefActionType>
+						<PrivPrefActionValue>Do Not Solicit</PrivPrefActionValue>
+						<PrivPrefIdPK>227545319904709201</PrivPrefIdPK>
+						<PrivPrefLastUpdateTxId>222045319904679201</PrivPrefLastUpdateTxId>
+						<PrivPrefInstancePK>224645289805631801</PrivPrefInstancePK>
+						<EntityPrivPrefLastUpdateTxId>222045319904679201</EntityPrivPrefLastUpdateTxId>
+					</TCRMPartyPrivPrefBObj>
+					<TCRMPartyPrivPrefBObj>
+						<PartyId>224645289805631801</PartyId>
+						<PartyPrivPrefIdPK>222345319904709401</PartyPrivPrefIdPK>
+						<PrivPrefEntity>CONTACT</PrivPrefEntity>
+						<PrivPrefReasonType>1000001</PrivPrefReasonType>
+						<PrivPrefReasonValue>Recorded By Agent</PrivPrefReasonValue>
+						<SourceIdentType>1000011</SourceIdentType>
+						<SourceIdentValue>ServiceOps</SourceIdentValue>
+						<StartDate>2016-01-19 10:24:07.093</StartDate>
+						<PrivPrefActOptId>1000006</PrivPrefActOptId>
+						<PrivPrefType>1000003</PrivPrefType>
+						<PrivPrefValue>Contact</PrivPrefValue>
+						<EntityPrivPrefLastUpdateDate>2016-01-19 10:24:07.094</EntityPrivPrefLastUpdateDate>
+						<EntityPrivPrefLastUpdateUser>cusadmin</EntityPrivPrefLastUpdateUser>
+						<PrivPrefLastUpdateDate>2016-01-19 10:24:07.093</PrivPrefLastUpdateDate>
+						<PrivPrefLastUpdateUser>cusadmin</PrivPrefLastUpdateUser>
+						<PrivPrefCatType>1000001</PrivPrefCatType>
+						<PrivPrefCatValue>Agent</PrivPrefCatValue>
+						<PrivPrefActionType>6</PrivPrefActionType>
+						<PrivPrefActionValue>Do Not Solicit</PrivPrefActionValue>
+						<PrivPrefIdPK>222345319904709401</PrivPrefIdPK>
+						<PrivPrefLastUpdateTxId>222045319904679201</PrivPrefLastUpdateTxId>
+						<PrivPrefInstancePK>224645289805631801</PrivPrefInstancePK>
+						<EntityPrivPrefLastUpdateTxId>222045319904679201</EntityPrivPrefLastUpdateTxId>
+					</TCRMPartyPrivPrefBObj>
+					<TCRMPartyValueBObj>
+						<ComponentID>1036</ComponentID>
+						<PartyValueId>226745289805781601</PartyValueId>
+						<PartyId>224645289805631801</PartyId>
+						<PartyValueType>1000002</PartyValueType>
+						<PartyValueValue>Person Info</PartyValueValue>
+						<SourceIdentType>1000001</SourceIdentType>
+						<SourceIdentValue>PLA</SourceIdentValue>
+						<StartDate>2016-01-11 03:57:15.71326</StartDate>
+						<PartyValueLastUpdateDate>2016-01-15 22:47:37.815</PartyValueLastUpdateDate>
+						<PartyValueLastUpdateUser>mdmadmin</PartyValueLastUpdateUser>
+						<PartyValueLastUpdateTxId>227345289805586301</PartyValueLastUpdateTxId>
+						<Attribute0Type>1000007</Attribute0Type>
+						<Attribute0Value>Last Verified Date</Attribute0Value>
+						<Attribute0String>2016-01-10 21:57:15.713260</Attribute0String>
+						<Attribute1Type>1000002</Attribute1Type>
+						<Attribute1Value>Occupation Code</Attribute1Value>
+						<Attribute1String>ENGINEER</Attribute1String>
+						<CategoryType>1000002</CategoryType>
+						<CategoryValue>Person Values</CategoryValue>
+					</TCRMPartyValueBObj>
+				</TCRMPersonBObj>
+			</PersonNotificationBObj>
+        </TCRMObject>
+    </TCRMTx>
+</TCRMService>

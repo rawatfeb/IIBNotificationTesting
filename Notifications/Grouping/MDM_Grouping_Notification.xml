@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TCRMService xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+        xmlns="http://www.ibm.com/mdm/schema" xsi:schemaLocation="http://www.ibm.com/mdm/schema MDMDomains.xsd">
+    <RequestControl>
+        <requestID>10015</requestID>
+        <DWLControl>
+            <requesterName>cusadmin</requesterName>
+            <requesterLanguage>100</requesterLanguage>
+        </DWLControl>
+    </RequestControl>
+    <TCRMTx>
+        <TCRMTxType></TCRMTxType>
+        <TCRMTxObject>GroupingNotificationBObj</TCRMTxObject>
+        <TCRMObject>
+              <GroupingNotificationBObj>
+                 <ObjectReferenceId></ObjectReferenceId>
+                 <OriginatingSource>Soa Local System
+				 trailing 
+				 Spaces </OriginatingSource>
+                 <TxnTimeStamp>2015-02-05 08:08:32.114</TxnTimeStamp>
+                 <HoldholdNumber>HOUSE 698754</HoldholdNumber>
+                 <TCRMPartyGroupingBObj>
+				 <PartyGroupingIdPK></PartyGroupingIdPK>
+                    <PartyGroupingName>58794654124787</PartyGroupingName>
+                    <PartyGroupingDescription></PartyGroupingDescription>
+                    <PartyGroupingType></PartyGroupingType>
+                    <PartyGroupingValue>House Grouping 564788</PartyGroupingValue>
+                    <StartDate>2015-02-05 07:08:30.651165</StartDate>
+                    <EndDate>2015-02-05 07:08:30.651165</EndDate>
+                    <PartyGroupingLastUpdateDate></PartyGroupingLastUpdateDate>
+                    <PartyGroupingLastUpdateUser></PartyGroupingLastUpdateUser>
+                    <PartyGroupingLastUpdateTxId></PartyGroupingLastUpdateTxId>
+                    <TCRMPartyGroupingAssociationBObj>
+                       <PartyGroupingAssociationIdPK></PartyGroupingAssociationIdPK>
+                       <PartyGroupingId></PartyGroupingId>
+                       <PartyId></PartyId>
+                       <PartyGroupingAssociationDescription></PartyGroupingAssociationDescription>
+                       <EffectStartDate></EffectStartDate>
+                       <EffectEndDate></EffectEndDate>
+                       <PartyGroupingAssociationLastUpdateDate></PartyGroupingAssociationLastUpdateDate>
+                       <PartyGroupingAssociationLastUpdateUser></PartyGroupingAssociationLastUpdateUser>
+                       <PartyGroupingAssociationLastUpdateTxId></PartyGroupingAssociationLastUpdateTxId>
+                       <PartyGroupingAssociationHistActionCode></PartyGroupingAssociationHistActionCode>
+                       <PartyGroupingAssociationHistCreateDate></PartyGroupingAssociationHistCreateDate>
+                       <PartyGroupingAssociationHistCreatedBy></PartyGroupingAssociationHistCreatedBy>
+                       <PartyGroupingAssociationHistEndDate></PartyGroupingAssociationHistEndDate>
+                       <PartyGroupingAssociationHistoryIdPK></PartyGroupingAssociationHistoryIdPK>
+                       <TCRMPartyBObj>
+						<TCRMPartyIdentificationBObj>
+							 <ObjectReferenceId></ObjectReferenceId>
+							 <IdentificationIdPK></IdentificationIdPK>
+							 <PartyId></PartyId>
+							 <IdentificationType>1000003</IdentificationType>
+							 <IdentificationValue></IdentificationValue>
+							 <IdentificationNumber>ECN001</IdentificationNumber>
+							 <IdentificationStatusType></IdentificationStatusType>
+							 <IdentificationStatusValue></IdentificationStatusValue>
+							 <IdentificationExpiryDate></IdentificationExpiryDate>
+							 <StartDate>2015-02-05 07:08:30.651165</StartDate>
+							 <EndDate>2015-02-05 07:08:30.651165</EndDate>
+							 <IdentificationAssignedBy></IdentificationAssignedBy>
+							 <IdentificationAssignedByRefId></IdentificationAssignedByRefId>
+							 <IdentificationDescription></IdentificationDescription>
+							 <IdentificationIssueLocation></IdentificationIssueLocation>
+							 <LastUsedDate></LastUsedDate>
+							 <LastVerifiedDate></LastVerifiedDate>
+							 <SourceIdentifierType></SourceIdentifierType>
+							 <SourceIdentifierValue></SourceIdentifierValue>
+							 <PartyIdentificationLastUpdateDate></PartyIdentificationLastUpdateDate>
+							 <PartyIdentificationLastUpdateUser></PartyIdentificationLastUpdateUser>
+							 <PartyIdentificationLastUpdateTxId></PartyIdentificationLastUpdateTxId>
+							 <PartyIdentificationHistActionCode></PartyIdentificationHistActionCode>
+							 <PartyIdentificationHistCreateDate></PartyIdentificationHistCreateDate>
+							 <PartyIdentificationHistCreatedBy></PartyIdentificationHistCreatedBy>
+							 <PartyIdentificationHistEndDate></PartyIdentificationHistEndDate>
+							 <PartyIdentificationHistoryIdPK></PartyIdentificationHistoryIdPK>
+							 <TCRMMultiplePartyCDCBObj>
+								<ObjectReferenceId></ObjectReferenceId>
+							 </TCRMMultiplePartyCDCBObj>
+							</TCRMPartyIdentificationBObj>
+							 <TCRMAdminContEquivBObj>
+                                         <ObjectReferenceId></ObjectReferenceId>
+                                         <AdminContEquivIdPK></AdminContEquivIdPK>
+                                         <PartyId></PartyId>
+                                         <AdminPartyId>AdminKey_Value_001</AdminPartyId>
+                                         <AdminSystemType></AdminSystemType>
+                                         <AdminSystemValue>System Source_1234679_002</AdminSystemValue>
+                                         <Description></Description>
+                                         <ContEquivLastUpdateDate></ContEquivLastUpdateDate>
+                                         <ContEquivLastUpdateUser></ContEquivLastUpdateUser>
+                                         <ContEquivLastUpdateTxId></ContEquivLastUpdateTxId>
+                                         <ContEquivHistActionCode></ContEquivHistActionCode>
+                                         <ContEquivHistCreateDate></ContEquivHistCreateDate>
+                                         <ContEquivHistCreatedBy></ContEquivHistCreatedBy>
+                                         <ContEquivHistEndDate></ContEquivHistEndDate>
+                                         <ContEquivHistoryIdPK></ContEquivHistoryIdPK>
+                               </TCRMAdminContEquivBObj>
+						 </TCRMPartyBObj>
+					</TCRMPartyGroupingAssociationBObj>
+				 </TCRMPartyGroupingBObj>
+				 <TCRMPartyGroupingRoleBObj>
+                    <ObjectReferenceId></ObjectReferenceId>
+                    <PartyGroupingRoleIdPK></PartyGroupingRoleIdPK>
+                    <PartyGroupingAssociationId></PartyGroupingAssociationId>
+                    <RoleType></RoleType>
+                    <RoleValue>Agent</RoleValue>
+                    <Description></Description>
+                    <StartDate>2015-02-05 07:08:30.651165</StartDate>
+                    <EndDate>2015-02-05 07:08:30.651165</EndDate>
+                    <EndReasonType></EndReasonType>
+                    <EndReasonValue></EndReasonValue>
+                    <PartyGroupingRoleLastUpdateDate></PartyGroupingRoleLastUpdateDate>
+                    <PartyGroupingRoleLastUpdateUser></PartyGroupingRoleLastUpdateUser>
+                    <PartyGroupingRoleLastUpdateTxId></PartyGroupingRoleLastUpdateTxId>
+                    <RoleCategoryType></RoleCategoryType>
+                    <RoleCategoryValue></RoleCategoryValue>
+                    <PartyGroupingRoleHistoryIdPK></PartyGroupingRoleHistoryIdPK>
+                    <PartyGroupingRoleHistActionCode></PartyGroupingRoleHistActionCode>
+                    <PartyGroupingRoleHistCreateDate></PartyGroupingRoleHistCreateDate>
+                    <PartyGroupingRoleHistCreatedBy></PartyGroupingRoleHistCreatedBy>
+                    <PartyGroupingRoleHistEndDate></PartyGroupingRoleHistEndDate>
+                 </TCRMPartyGroupingRoleBObj>
+              </GroupingNotificationBObj>
+        </TCRMObject>
+    </TCRMTx>
+</TCRMService>

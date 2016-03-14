@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TCRMService xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+        xmlns="http://www.ibm.com/mdm/schema" xsi:schemaLocation="http://www.ibm.com/mdm/schema MDMDomains.xsd">
+	<RequestControl>
+		<requestID>10015</requestID>
+		<DWLControl>
+			<requesterName>cusadmin</requesterName>
+			<requesterLanguage>100</requesterLanguage>
+		</DWLControl>
+	</RequestControl>
+	<TCRMTx>
+		<TCRMTxType/>
+		<TCRMTxObject>CollapseNotificationBObj</TCRMTxObject>
+		<TCRMObject>
+			<CollapseNotificationBObj>
+				<ObjectReferenceId>2853018</ObjectReferenceId>
+				<OriginatingSource>MDM TRAILING 
+				    WHITE        
+					SPACE</OriginatingSource>
+				
+				<TCRMConsolidatedPartyBObj>
+					<ObjectReferenceId/>
+					<PartyInquiryLevel/>
+					<TCRMPersonBObj>
+						<PartyId>409042314171158501</PartyId>
+						<DisplayName>BARBARA BUCHANAN</DisplayName>
+						<PartyType>P</PartyType>
+						<CreatedDate>2015-02-05 08:08:31.068</CreatedDate>
+						<SinceDate>2016-01-12 00:00:00.0</SinceDate>
+						<LastVerifiedDate>2015-02-05 07:08:30.651165</LastVerifiedDate>
+						<SourceIdentifierType>1000001</SourceIdentifierType>
+						<SourceIdentifierValue>PLA</SourceIdentifierValue>
+						<PartyLastUpdateDate>2015-02-05 08:08:31.584</PartyLastUpdateDate>
+						<PartyLastUpdateUser>PLA</PartyLastUpdateUser>
+						<PartyLastUpdateTxId>401342314171106401</PartyLastUpdateTxId>
+						<PersonPartyId>409042314171158501</PersonPartyId>
+						<BirthDate>1956-11-03 00:00:00.0</BirthDate>
+						<GenderType>M</GenderType>
+						<MaritalStatusType>2</MaritalStatusType>
+						<MaritalStatusValue>Single</MaritalStatusValue>
+						<PartyActiveIndicator>Y</PartyActiveIndicator>
+						<PersonLastUpdateDate>2015-02-05 08:08:31.594</PersonLastUpdateDate>
+						<PersonLastUpdateUser>PLA</PersonLastUpdateUser>
+						<PersonLastUpdateTxId>401342314171106401</PersonLastUpdateTxId>
+						<TCRMPartyAddressBObj>
+							<PartyAddressIdPK>406342314171211101</PartyAddressIdPK>
+							<PartyId>409042314171158501</PartyId>
+							<AddressId>344242205039155901</AddressId>
+							<AddressUsageType>1</AddressUsageType>
+							<AddressUsageValue>Primary Residence</AddressUsageValue>
+							<StartDate>2015-02-05 07:08:30.651165</StartDate>
+							<LastVerifiedDate>2015-02-05 07:08:30.651165</LastVerifiedDate>
+							<SourceIdentifierType>1000001</SourceIdentifierType>
+							<SourceIdentifierValue>PLA</SourceIdentifierValue>
+							<AddressGroupLastUpdateDate>2015-02-05 08:08:32.114</AddressGroupLastUpdateDate>
+							<AddressGroupLastUpdateUser>PLA</AddressGroupLastUpdateUser>
+							<AddressGroupLastUpdateTxId>401342314171106401</AddressGroupLastUpdateTxId>
+							<LocationGroupLastUpdateDate>2015-02-05 08:08:32.11</LocationGroupLastUpdateDate>
+							<LocationGroupLastUpdateUser>PLA</LocationGroupLastUpdateUser>
+							<LocationGroupLastUpdateTxId>401342314171106401</LocationGroupLastUpdateTxId>
+							<TCRMAddressBObj>
+								<AddressIdPK>344242205039155901</AddressIdPK>
+								<AddressLineOne>Tally Ho</AddressLineOne>
+								<AddressLineTwo>3922 Emerald St</AddressLineTwo>
+								<City>Torrance</City>
+								<ZipPostalCode>90503-3122</ZipPostalCode>
+								<ProvinceStateType>6</ProvinceStateType>
+								<ProvinceStateValue>CA</ProvinceStateValue>
+								<CountryType>185</CountryType>
+								<CountryValue>United States of America</CountryValue>
+								<StandardFormatingIndicator>Y</StandardFormatingIndicator>
+								<AddressLastUpdateDate>2015-01-23 16:59:51.558</AddressLastUpdateDate>
+								<AddressLastUpdateUser>PLA</AddressLastUpdateUser>
+								<AddressLastUpdateTxId>345342205038946601</AddressLastUpdateTxId>
+								<DWLStatus>
+									<Status>0</Status>
+								</DWLStatus>
+							</TCRMAddressBObj>
+							<DWLStatus>
+								<Status>0</Status>
+							</DWLStatus>
+						</TCRMPartyAddressBObj>
+						<TCRMPartyAddressBObj>
+							<PartyAddressIdPK>403942314171218801</PartyAddressIdPK>
+							<PartyId>409042314171158501</PartyId>
+							<AddressId>344242205039155901</AddressId>
+							<AddressUsageType>1000005</AddressUsageType>
+							<AddressUsageValue>Property</AddressUsageValue>
+							<StartDate>2015-02-05 07:08:30.651165</StartDate>
+							<LastVerifiedDate>2015-02-05 07:08:30.651165</LastVerifiedDate>
+							<SourceIdentifierType>1000001</SourceIdentifierType>
+							<SourceIdentifierValue>PLA</SourceIdentifierValue>
+							<AddressGroupLastUpdateDate>2015-02-05 08:08:32.189</AddressGroupLastUpdateDate>
+							<AddressGroupLastUpdateUser>PLA</AddressGroupLastUpdateUser>
+							<AddressGroupLastUpdateTxId>401342314171106401</AddressGroupLastUpdateTxId>
+							<LocationGroupLastUpdateDate>2015-02-05 08:08:32.188</LocationGroupLastUpdateDate>
+							<LocationGroupLastUpdateUser>PLA</LocationGroupLastUpdateUser>
+							<LocationGroupLastUpdateTxId>401342314171106401</LocationGroupLastUpdateTxId>
+							<TCRMAddressBObj>
+								<AddressIdPK>344242205039155901</AddressIdPK>
+								<AddressLineOne>Tally Ho</AddressLineOne>
+								<AddressLineTwo>3922 Emerald St</AddressLineTwo>
+								<City>Torrance</City>
+								<ZipPostalCode>90503-3122</ZipPostalCode>
+								<ProvinceStateType>6</ProvinceStateType>
+								<ProvinceStateValue>CA</ProvinceStateValue>
+								<CountryType>185</CountryType>
+								<CountryValue>United States of America</CountryValue>
+								<StandardFormatingIndicator>Y</StandardFormatingIndicator>
+								<AddressLastUpdateDate>2015-01-23 16:59:51.558</AddressLastUpdateDate>
+								<AddressLastUpdateUser>PLA</AddressLastUpdateUser>
+								<AddressLastUpdateTxId>345342205038946601</AddressLastUpdateTxId>
+								<DWLStatus>
+									<Status>0</Status>
+								</DWLStatus>
+							</TCRMAddressBObj>
+							<DWLStatus>
+								<Status>0</Status>
+							</DWLStatus>
+						</TCRMPartyAddressBObj>
+						<TCRMPartyContactMethodBObj>
+							<PartyContactMethodIdPK>406942314171239301</PartyContactMethodIdPK>
+							<PartyId>409042314171158501</PartyId>
+							<ContactMethodId>402342314171221001</ContactMethodId>
+							<ContactMethodUsageType>7</ContactMethodUsageType>
+							<ContactMethodUsageValue>Personal Email</ContactMethodUsageValue>
+							<StartDate>2015-02-05 07:08:30.651165</StartDate>
+							<LastVerifiedDate>2015-02-05 07:08:30.651165</LastVerifiedDate>
+							<SourceIdentifierType>1000001</SourceIdentifierType>
+							<SourceIdentifierValue>PLA</SourceIdentifierValue>
+							<ContactMethodGroupLastUpdateDate>2015-02-05 08:08:32.393</ContactMethodGroupLastUpdateDate>
+							<ContactMethodGroupLastUpdateUser>PLA</ContactMethodGroupLastUpdateUser>
+							<ContactMethodGroupLastUpdateTxId>401342314171106401</ContactMethodGroupLastUpdateTxId>
+							<LocationGroupLastUpdateDate>2015-02-05 08:08:32.392</LocationGroupLastUpdateDate>
+							<LocationGroupLastUpdateUser>PLA</LocationGroupLastUpdateUser>
+							<LocationGroupLastUpdateTxId>401342314171106401</LocationGroupLastUpdateTxId>
+							<TCRMContactMethodBObj>
+								<ContactMethodIdPK>402342314171221001</ContactMethodIdPK>
+								<ReferenceNumber>DEYVARAYAN@YAHOO.COM</ReferenceNumber>
+								<ContactMethodType>2</ContactMethodType>
+								<ContactMethodValue>Email Address</ContactMethodValue>
+								<ContactMethodLastUpdateDate>2015-02-05 08:08:32.209</ContactMethodLastUpdateDate>
+								<ContactMethodLastUpdateUser>PLA</ContactMethodLastUpdateUser>
+								<ContactMethodLastUpdateTxId>401342314171106401</ContactMethodLastUpdateTxId>
+								<DWLStatus>
+									<Status>0</Status>
+								</DWLStatus>
+							</TCRMContactMethodBObj>
+							<DWLStatus>
+								<Status>0</Status>
+							</DWLStatus>
+						</TCRMPartyContactMethodBObj>
+						<TCRMPartyContactMethodBObj>
+							<PartyContactMethodIdPK>408242314171252401</PartyContactMethodIdPK>
+							<PartyId>409042314171158501</PartyId>
+							<ContactMethodId>407942314171245801</ContactMethodId>
+							<ContactMethodUsageType>1</ContactMethodUsageType>
+							<ContactMethodUsageValue>Home Telephone</ContactMethodUsageValue>
+							<StartDate>2015-02-05 07:08:30.651165</StartDate>
+							<LastVerifiedDate>2015-02-05 07:08:30.651165</LastVerifiedDate>
+							<SourceIdentifierType>1000001</SourceIdentifierType>
+							<SourceIdentifierValue>PLA</SourceIdentifierValue>
+							<ContactMethodGroupLastUpdateDate>2015-02-05 08:08:32.555</ContactMethodGroupLastUpdateDate>
+							<ContactMethodGroupLastUpdateUser>PLA</ContactMethodGroupLastUpdateUser>
+							<ContactMethodGroupLastUpdateTxId>401342314171106401</ContactMethodGroupLastUpdateTxId>
+							<LocationGroupLastUpdateDate>2015-02-05 08:08:32.523</LocationGroupLastUpdateDate>
+							<LocationGroupLastUpdateUser>PLA</LocationGroupLastUpdateUser>
+							<LocationGroupLastUpdateTxId>401342314171106401</LocationGroupLastUpdateTxId>
+							<TCRMContactMethodBObj>
+								<ContactMethodIdPK>407942314171245801</ContactMethodIdPK>
+								<ReferenceNumber>201-257-7128</ReferenceNumber>
+								<ContactMethodType>1</ContactMethodType>
+								<ContactMethodValue>Telephone Number</ContactMethodValue>
+								<StandardFormatingIndicator>Y</StandardFormatingIndicator>
+								<ContactMethodLastUpdateDate>2015-02-05 08:08:32.457</ContactMethodLastUpdateDate>
+								<ContactMethodLastUpdateUser>PLA</ContactMethodLastUpdateUser>
+								<ContactMethodLastUpdateTxId>401342314171106401</ContactMethodLastUpdateTxId>
+								<TCRMPhoneNumberBObj>
+									<PhoneNumberId>401142314171249601</PhoneNumberId>
+									<ContactMethodId>407942314171245801</ContactMethodId>
+									<PhoneCountryCode>1</PhoneCountryCode>
+									<PhoneAreaCode>201</PhoneAreaCode>
+									<PhoneExchange>257</PhoneExchange>
+									<PhoneNumber>7128</PhoneNumber>
+									<PhoneLastUpdateDate>2015-02-05 08:08:32.495</PhoneLastUpdateDate>
+									<PhoneLastUpdateUser>PLA</PhoneLastUpdateUser>
+									<PhoneLastUpdateTxId>401342314171106401</PhoneLastUpdateTxId>
+								</TCRMPhoneNumberBObj>
+								<DWLStatus>
+									<Status>0</Status>
+								</DWLStatus>
+							</TCRMContactMethodBObj>
+							<DWLStatus>
+								<Status>0</Status>
+							</DWLStatus>
+						</TCRMPartyContactMethodBObj>
+						<TCRMPartyContactMethodBObj>
+							<PartyContactMethodIdPK>408742361336110301</PartyContactMethodIdPK>
+							<PartyId>409042314171158501</PartyId>
+							<ContactMethodId>409242361336107801</ContactMethodId>
+							<ContactMethodUsageType>7</ContactMethodUsageType>
+							<ContactMethodUsageValue>Personal Email</ContactMethodUsageValue>
+							<StartDate>2015-02-05 05:13:43.285336</StartDate>
+							<LastVerifiedDate>2015-02-05 05:13:43.285336</LastVerifiedDate>
+							<SourceIdentifierType>1000005</SourceIdentifierType>
+							<SourceIdentifierValue>CSS</SourceIdentifierValue>
+							<ContactMethodGroupLastUpdateDate>2015-02-10 19:09:21.109</ContactMethodGroupLastUpdateDate>
+							<ContactMethodGroupLastUpdateUser>CSS</ContactMethodGroupLastUpdateUser>
+							<ContactMethodGroupLastUpdateTxId>406242361336101401</ContactMethodGroupLastUpdateTxId>
+							<LocationGroupLastUpdateDate>2015-02-10 19:09:21.102</LocationGroupLastUpdateDate>
+							<LocationGroupLastUpdateUser>CSS</LocationGroupLastUpdateUser>
+							<LocationGroupLastUpdateTxId>406242361336101401</LocationGroupLastUpdateTxId>
+							<TCRMContactMethodBObj>
+								<ContactMethodIdPK>409242361336107801</ContactMethodIdPK>
+								<ReferenceNumber>deyvarayan@yahoo.com</ReferenceNumber>
+								<ContactMethodType>2</ContactMethodType>
+								<ContactMethodValue>Email Address</ContactMethodValue>
+								<ContactMethodLastUpdateDate>2015-02-10 19:09:21.077</ContactMethodLastUpdateDate>
+								<ContactMethodLastUpdateUser>CSS</ContactMethodLastUpdateUser>
+								<ContactMethodLastUpdateTxId>406242361336101401</ContactMethodLastUpdateTxId>
+								<DWLStatus>
+									<Status>0</Status>
+								</DWLStatus>
+							</TCRMContactMethodBObj>
+							<DWLStatus>
+								<Status>0</Status>
+							</DWLStatus>
+						</TCRMPartyContactMethodBObj>
+						<TCRMPartyIdentificationBObj>
+							<IdentificationIdPK>405742314171184801</IdentificationIdPK>
+							<PartyId>409042314171158501</PartyId>
+							<IdentificationType>1</IdentificationType>
+							<IdentificationValue>Social Security Number</IdentificationValue>
+							<IdentificationNumber>XXXXX4725</IdentificationNumber>
+							<StartDate>2015-02-05 07:08:30.651165</StartDate>
+							<LastVerifiedDate>2015-02-05 07:08:30.651165</LastVerifiedDate>
+							<SourceIdentifierType>1000001</SourceIdentifierType>
+							<SourceIdentifierValue>PLA</SourceIdentifierValue>
+							<PartyIdentificationLastUpdateDate>2015-02-05 08:08:31.847</PartyIdentificationLastUpdateDate>
+							<PartyIdentificationLastUpdateUser>PLA</PartyIdentificationLastUpdateUser>
+							<PartyIdentificationLastUpdateTxId>401342314171106401</PartyIdentificationLastUpdateTxId>
+							<DWLStatus>
+								<Status>0</Status>
+							</DWLStatus>
+						</TCRMPartyIdentificationBObj>
+						<TCRMPartyIdentificationBObj>
+							<IdentificationIdPK>407542314171268401</IdentificationIdPK>
+							<PartyId>409042314171158501</PartyId>
+							<IdentificationType>1000001</IdentificationType>
+							<IdentificationValue>ECN</IdentificationValue>
+							<IdentificationNumber>2853019</IdentificationNumber>
+							<StartDate>2015-02-05 08:08:32.683</StartDate>
+							<LastVerifiedDate>2015-02-05 02:08:32.682</LastVerifiedDate>
+							<PartyIdentificationLastUpdateDate>2015-02-05 08:08:32.683</PartyIdentificationLastUpdateDate>
+							<PartyIdentificationLastUpdateUser>PLA</PartyIdentificationLastUpdateUser>
+							<PartyIdentificationLastUpdateTxId>401342314171106401</PartyIdentificationLastUpdateTxId>
+							<DWLStatus>
+								<Status>0</Status>
+							</DWLStatus>
+						</TCRMPartyIdentificationBObj>
+						<TCRMPartyIdentificationBObj>
+							<IdentificationIdPK>408642361336103201</IdentificationIdPK>
+							<PartyId>409042314171158501</PartyId>
+							<IdentificationType>1000002</IdentificationType>
+							<IdentificationValue>CSS User Id</IdentificationValue>
+							<IdentificationNumber>758483907</IdentificationNumber>
+							<StartDate>2015-02-05 05:13:43.285336</StartDate>
+							<EndDate>2015-11-26 05:13:43.285336</EndDate>
+							<LastVerifiedDate>2015-02-05 05:13:43.285336</LastVerifiedDate>
+							<SourceIdentifierType>1000005</SourceIdentifierType>
+							<SourceIdentifierValue>CSS</SourceIdentifierValue>
+							<PartyIdentificationLastUpdateDate>2015-02-10 19:09:21.031</PartyIdentificationLastUpdateDate>
+							<PartyIdentificationLastUpdateUser>CSS</PartyIdentificationLastUpdateUser>
+							<PartyIdentificationLastUpdateTxId>406242361336101401</PartyIdentificationLastUpdateTxId>
+							<DWLStatus>
+								<Status>0</Status>
+							</DWLStatus>
+						</TCRMPartyIdentificationBObj>
+						<TCRMPartyIdentificationBObj>
+							<IdentificationIdPK>408642361336103201</IdentificationIdPK>
+							<PartyId>409042314171158501</PartyId>
+							<IdentificationType>1000002</IdentificationType>
+							<IdentificationValue>BW User Id</IdentificationValue>
+							<StartDate>2015-02-05 05:13:43.285336</StartDate>
+							<EndDate>2015-11-26 05:13:43.285336</EndDate>
+							<LastVerifiedDate>2015-02-05 05:13:43.285336</LastVerifiedDate>
+							<SourceIdentifierType>1000005</SourceIdentifierType>
+							<SourceIdentifierValue>BW</SourceIdentifierValue>
+							<PartyIdentificationLastUpdateDate>2015-02-10 19:09:21.031</PartyIdentificationLastUpdateDate>
+							<PartyIdentificationLastUpdateUser>CSS</PartyIdentificationLastUpdateUser>
+							<PartyIdentificationLastUpdateTxId>406242361336101401</PartyIdentificationLastUpdateTxId>
+							<DWLStatus>
+								<Status>0</Status>
+							</DWLStatus>
+						</TCRMPartyIdentificationBObj>
+						<TCRMAdminContEquivBObj>
+							<AdminContEquivIdPK>408642314171257001</AdminContEquivIdPK>
+							<PartyId>409042314171158501</PartyId>
+							<AdminPartyId>0156714304:0659403341</AdminPartyId>
+							<AdminSystemType>1000001</AdminSystemType>
+							<AdminSystemValue>PLA</AdminSystemValue>
+							<ContEquivLastUpdateDate>2015-02-05 08:08:32.569</ContEquivLastUpdateDate>
+							<ContEquivLastUpdateUser>PLA</ContEquivLastUpdateUser>
+							<ContEquivLastUpdateTxId>401342314171106401</ContEquivLastUpdateTxId>
+						</TCRMAdminContEquivBObj>
+						<TCRMAdminContEquivBObj>
+							<AdminContEquivIdPK>402042361336104701</AdminContEquivIdPK>
+							<PartyId>409042314171158501</PartyId>
+							<AdminPartyId>0758483907</AdminPartyId>
+							<AdminSystemType>1000004</AdminSystemType>
+							<AdminSystemValue>CSS</AdminSystemValue>
+							<ContEquivLastUpdateDate>2015-02-10 19:09:21.046</ContEquivLastUpdateDate>
+							<ContEquivLastUpdateUser>CSS</ContEquivLastUpdateUser>
+							<ContEquivLastUpdateTxId>406242361336101401</ContEquivLastUpdateTxId>
+						</TCRMAdminContEquivBObj>
+						<TCRMPersonNameBObj>
+							<PersonNameIdPK>405842314171168101</PersonNameIdPK>
+							<NameUsageType>1</NameUsageType>
+							<NameUsageValue>Legal</NameUsageValue>
+							<GivenNameOne>BARBARA</GivenNameOne>
+							<StdGivenNameOne>BARBARA</StdGivenNameOne>
+							<LastName>BUCHANAN</LastName>
+							<StdLastName>BUCHANAN</StdLastName>
+							<Suffix>Mr. Suffix Test Passed</Suffix>
+							<PersonPartyId>409042314171158501</PersonPartyId>
+							<StartDate>2015-02-05 07:08:30.651165</StartDate>
+							<LastVerifiedDate>2015-02-05 07:08:30.651165</LastVerifiedDate>
+							<SourceIdentifierType>1000001</SourceIdentifierType>
+							<SourceIdentifierValue>PLA</SourceIdentifierValue>
+							<PersonNameLastUpdateDate>2015-02-05 08:08:31.68</PersonNameLastUpdateDate>
+							<PersonNameLastUpdateUser>PLA</PersonNameLastUpdateUser>
+							<PersonNameLastUpdateTxId>401342314171106401</PersonNameLastUpdateTxId>
+							<LastUpdatedBy>PLA</LastUpdatedBy>
+							<LastUpdatedDate>2015-02-05 08:08:31.68</LastUpdatedDate>
+							<DWLStatus>
+								<Status>0</Status>
+							</DWLStatus>
+						</TCRMPersonNameBObj>
+						<TCRMPartyValueBObj>
+							<ComponentID>1036</ComponentID>
+							<PartyValueId>406342314171265501</PartyValueId>
+							<PartyId>409042314171158501</PartyId>
+							<PartyValueType>1000002</PartyValueType>
+							<PartyValueValue>Person Info</PartyValueValue>
+							<SourceIdentType>1000001</SourceIdentType>
+							<SourceIdentValue>PLA</SourceIdentValue>
+							<StartDate>2015-02-05 07:08:30.651165</StartDate>
+							<PartyValueLastUpdateDate>2015-02-05 08:08:32.654</PartyValueLastUpdateDate>
+							<PartyValueLastUpdateUser>PLA</PartyValueLastUpdateUser>
+							<PartyValueLastUpdateTxId>401342314171106401</PartyValueLastUpdateTxId>
+							<Attribute0Type>1000007</Attribute0Type>
+							<Attribute0Value>Last Verified Date</Attribute0Value>
+							<Attribute0String>2015-02-05 07:08:30.651165</Attribute0String>
+							<Attribute1Type>1000002</Attribute1Type>
+							<Attribute1Value>Occupation Code</Attribute1Value>
+							<Attribute1String>ENGINEER - STATE LICENSE (NO DEGREE)</Attribute1String>
+							<CategoryType>1000002</CategoryType>
+							<CategoryValue>Person Values</CategoryValue>
+							<DWLStatus>
+								<Status>0</Status>
+							</DWLStatus>
+						</TCRMPartyValueBObj>
+						<DWLStatus>
+							<Status>0</Status>
+						</DWLStatus>
+					</TCRMPersonBObj>
+					<TCRMPartyListBObj>
+						<ObjectReferenceId/>
+						<PartyInquiryLevel/>
+						<TCRMPersonBObj>
+
+						</TCRMPersonBObj>
+					</TCRMPartyListBObj>
+				</TCRMConsolidatedPartyBObj>
+			</CollapseNotificationBObj>
+		</TCRMObject>
+	</TCRMTx>
+</TCRMService>
+

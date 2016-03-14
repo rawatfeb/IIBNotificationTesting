@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TCRMService xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.ibm.com/mdm/schema" xsi:schemaLocation="http://www.ibm.com/mdm/schema MDMDomains.xsd">
+    <ResponseControl>
+        <ResultCode>SUCCESS</ResultCode>
+        <DWLControl>
+            <requesterLanguage>100</requesterLanguage>
+            <requesterLocale>en</requesterLocale>
+            <requesterName>MOHAMMAD.SIDDIQUI</requesterName>
+            <requestID>123</requestID>
+            <requestOrigin>BW</requestOrigin>
+            <userRole>PAGSEC_PROD_UserSSLVPN|CAGGPO_US_Farmers_Environmental|F_Internet - General|F_RATCCUSERS|F_BPS_PLAUSERS|CALSEC_ZFS_Network_Configuration_Operators|CALGPO_US_Farmers_Environmental|PAGORG_External_Zurich_Way_Users_AZ|PALGPO_PROD_eWP_bPOWER_Stub_Installer|PALAPP_BMC_bP_PM_AZCORP_ObsoletePatches</userRole>
+            <requesterTimeZone>EST5EDT</requesterTimeZone>
+        </DWLControl>
+    </ResponseControl>
+    <TCRMTx>
+        <RequestType>MaintainPartyNotification</RequestType>
+        <TxResult>
+        <ResultCode>SUCCESS</ResultCode>
+        </TxResult>
+        <TCRMObject>
+			<PersonNotificationBObj>
+				<ComponentID>5020049</ComponentID>
+				<OriginatingSource>BW</OriginatingSource>
+				<TxnTimeStamp>2015-11-23 10:52:48.652</TxnTimeStamp>
+				<TCRMAdminContEquivBObj>
+					<AdminContEquivIdPK>384844827552265301</AdminContEquivIdPK>
+					<PartyId>382044827552252201</PartyId>
+					<AdminPartyId>59650</AdminPartyId>
+					<AdminSystemType>1000006</AdminSystemType>
+					<AdminSystemValue>BW</AdminSystemValue>
+					<ContEquivLastUpdateDate>2015-11-23 10:45:22.652</ContEquivLastUpdateDate>
+					<ContEquivLastUpdateUser>MOHAMMAD.SIDDIQUI</ContEquivLastUpdateUser>
+					<ContEquivLastUpdateTxId>198444827552250401</ContEquivLastUpdateTxId>
+				</TCRMAdminContEquivBObj>
+				<TCRMPartyIdentificationBObj>
+					<IdentificationIdPK>385244827552255401</IdentificationIdPK>
+					<PartyId>382044827552252201</PartyId>
+					<IdentificationType>1</IdentificationType>
+					<IdentificationValue>Social Security Number</IdentificationValue>
+					<IdentificationNumber>418438247</IdentificationNumber>
+					<StartDate>2015-11-23 10:45:22.553</StartDate>
+					<EndDate>2015-11-25 10:45:22.247</EndDate>
+					<SourceIdentifierType>1000010</SourceIdentifierType>
+					<SourceIdentifierValue>BW</SourceIdentifierValue>
+					<PartyIdentificationLastUpdateDate>2015-11-23 10:45:22.553</PartyIdentificationLastUpdateDate>
+					<PartyIdentificationLastUpdateUser>MOHAMMAD.SIDDIQUI</PartyIdentificationLastUpdateUser>
+					<PartyIdentificationLastUpdateTxId>198444827552250401</PartyIdentificationLastUpdateTxId>
+				</TCRMPartyIdentificationBObj>
+				<TCRMPartyIdentificationBObj>
+					<IdentificationIdPK>386844827552256001</IdentificationIdPK>
+					<PartyId>382044827552252201</PartyId>
+					<IdentificationType>3</IdentificationType>
+					<IdentificationValue>Driver&apos;s Licence Number</IdentificationValue>
+					<IdentificationNumber>AW418438246</IdentificationNumber>
+					<StartDate>2015-11-23 10:45:22.559</StartDate>
+					<SourceIdentifierType>1000010</SourceIdentifierType>
+					<SourceIdentifierValue>BW</SourceIdentifierValue>
+					<PartyIdentificationLastUpdateDate>2015-11-23 10:45:22.559</PartyIdentificationLastUpdateDate>
+					<PartyIdentificationLastUpdateUser>MOHAMMAD.SIDDIQUI</PartyIdentificationLastUpdateUser>
+					<PartyIdentificationLastUpdateTxId>198444827552250401</PartyIdentificationLastUpdateTxId>
+				</TCRMPartyIdentificationBObj>
+				<TCRMPartyIdentificationBObj>
+					<IdentificationIdPK>381644827552269001</IdentificationIdPK>
+					<PartyId>382044827552252201</PartyId>
+					<IdentificationType>1000001</IdentificationType>
+					<IdentificationValue>ECN</IdentificationValue>
+					<IdentificationNumber>104469</IdentificationNumber>
+					<StartDate>2015-11-23 10:45:22.689</StartDate>
+					<LastVerifiedDate>2015-11-23 04:45:22.688</LastVerifiedDate>
+					<PartyIdentificationLastUpdateDate>2015-11-23 10:45:22.689</PartyIdentificationLastUpdateDate>
+					<PartyIdentificationLastUpdateUser>MOHAMMAD.SIDDIQUI</PartyIdentificationLastUpdateUser>
+					<PartyIdentificationLastUpdateTxId>198444827552250401</PartyIdentificationLastUpdateTxId>
+				</TCRMPartyIdentificationBObj>
+				<TCRMPartyIdentificationBObj>
+					<IdentificationIdPK>388244827552255901</IdentificationIdPK>
+					<PartyId>382044827552252201</PartyId>
+					<IdentificationType>1000004</IdentificationType>
+					<IdentificationValue>BW User Id</IdentificationValue>
+					<IdentificationNumber>418438248  BW User Id Test Passed</IdentificationNumber>
+					<StartDate>2015-11-23 10:45:22.558</StartDate>
+					<EndDate>2015-11-25 10:45:22.248</EndDate>
+					<SourceIdentifierType>1000010</SourceIdentifierType>
+					<SourceIdentifierValue>BW</SourceIdentifierValue>
+					<PartyIdentificationLastUpdateDate>2015-11-23 10:45:22.558</PartyIdentificationLastUpdateDate>
+					<PartyIdentificationLastUpdateUser>MOHAMMAD.SIDDIQUI</PartyIdentificationLastUpdateUser>
+					<PartyIdentificationLastUpdateTxId>198444827552250401</PartyIdentificationLastUpdateTxId>
+				</TCRMPartyIdentificationBObj>
+				<TCRMPartyIdentificationBObj>
+					<IdentificationIdPK>388244827552255901</IdentificationIdPK>
+					<PartyId>382044827552252201</PartyId>
+					<IdentificationType>1000002</IdentificationType>
+					<IdentificationValue>CSS User Id</IdentificationValue>
+					<IdentificationNumber>418438348</IdentificationNumber>
+					<StartDate>2015-11-23 10:45:22.558</StartDate>
+					<EndDate>2015-11-25 10:45:22.348</EndDate>
+					<SourceIdentifierType>1000010</SourceIdentifierType>
+					<SourceIdentifierValue>BW</SourceIdentifierValue>
+					<PartyIdentificationLastUpdateDate>2015-11-23 10:45:22.558</PartyIdentificationLastUpdateDate>
+					<PartyIdentificationLastUpdateUser>MOHAMMAD.SIDDIQUI</PartyIdentificationLastUpdateUser>
+					<PartyIdentificationLastUpdateTxId>198444827552250401</PartyIdentificationLastUpdateTxId>
+				</TCRMPartyIdentificationBObj>
+				<TCRMPersonBObj>
+					<PartyId>382044827552252201</PartyId>
+					<DisplayName>Justine Nayda</DisplayName>
+					<PreferredLanguageType>100</PreferredLanguageType>
+					<PreferredLanguageValue>English</PreferredLanguageValue>
+					<ComputerAccessType>1000001</ComputerAccessType>
+					<ComputerAccessValue>Email</ComputerAccessValue>
+					<PartyType>P</PartyType>
+					<CreatedDate>2015-11-23 10:52:48.618</CreatedDate>
+					<SinceDate>2001-04-11 01:53:08.0</SinceDate>
+					<LastVerifiedDate>2000-04-11 05:53:08.0</LastVerifiedDate>
+					<SourceIdentifierType>1000010</SourceIdentifierType>
+					<SourceIdentifierValue>BW</SourceIdentifierValue>
+					<PartyLastUpdateDate>2015-11-23 10:52:48.54</PartyLastUpdateDate>
+					<PartyLastUpdateUser>MDMAdmin</PartyLastUpdateUser>
+					<PartyLastUpdateTxId>385944827596849501</PartyLastUpdateTxId>
+					<PersonPartyId>382044827552252201</PersonPartyId>
+					<BirthDate>1976-01-23 19:54:37.0</BirthDate>
+					<GenderType>M</GenderType>
+					<MaritalStatusType>1</MaritalStatusType>
+					<MaritalStatusValue>Married</MaritalStatusValue>
+					<PartyActiveIndicator>Y</PartyActiveIndicator>
+					<PersonLastUpdateDate>2015-11-23 10:52:48.541</PersonLastUpdateDate>
+					<PersonLastUpdateUser>MDMAdmin</PersonLastUpdateUser>
+					<PersonLastUpdateTxId>385944827596849501</PersonLastUpdateTxId>
+					<TCRMAdminConteqvuivBObj>
+						<AdminSystemValue>BW AdminSystemValue Test Passed</AdminSystemValue>
+						<AdminPartyId>BW AdminPartyId Test Passed</AdminPartyId>
+					</TCRMAdminConteqvuivBObj>
+					<TCRMPersonNameBObj>
+						<PersonNameIdPK>389244827552254301</PersonNameIdPK>
+						<NameUsageType>1</NameUsageType>
+						<NameUsageValue>Legal</NameUsageValue>
+						<GivenNameOne>Justine</GivenNameOne>
+						<StdGivenNameOne>Justine</StdGivenNameOne>
+						<GivenNameTwo>Donald</GivenNameTwo>
+						<StdGivenNameTwo>Donald</StdGivenNameTwo>
+						<LastName>Nayda</LastName>
+						<StdLastName>Nayda</StdLastName>
+						<Suffix>Suffix Test Passed</Suffix>
+						<PersonPartyId>382044827552252201</PersonPartyId>
+						<StartDate>2015-11-23 10:45:22.542</StartDate>
+						<SourceIdentifierType>1000010</SourceIdentifierType>
+						<SourceIdentifierValue>BW</SourceIdentifierValue>
+						<PersonNameLastUpdateDate>2015-11-23 10:52:48.537</PersonNameLastUpdateDate>
+						<PersonNameLastUpdateUser>MDMAdmin</PersonNameLastUpdateUser>
+						<PersonNameLastUpdateTxId>385944827596849501</PersonNameLastUpdateTxId>
+						<LastUpdatedBy>MDMAdmin</LastUpdatedBy>
+						<LastUpdatedDate>2015-11-23 10:52:48.537</LastUpdatedDate>
+					</TCRMPersonNameBObj>
+					<TCRMPartyPrivPrefBObj>
+						<PartyId>382044827552252201</PartyId>
+						<PartyPrivPrefIdPK>385744827552266301</PartyPrivPrefIdPK>
+						<PrivPrefEntity>CONTACT</PrivPrefEntity>
+						<PrivPrefReasonType>1000001</PrivPrefReasonType>
+						<PrivPrefReasonValue>Recorded By Agent</PrivPrefReasonValue>
+						<SourceIdentType>1000010</SourceIdentType>
+						<SourceIdentValue>BW</SourceIdentValue>
+						<StartDate>2015-11-23 10:45:22.662</StartDate>
+						<PrivPrefActOptId>1000001</PrivPrefActOptId>
+						<PrivPrefType>1000001</PrivPrefType>
+						<PrivPrefValue>Call</PrivPrefValue>
+						<EntityPrivPrefLastUpdateDate>2015-11-23 10:45:22.666</EntityPrivPrefLastUpdateDate>
+						<EntityPrivPrefLastUpdateUser>MDMAdmin</EntityPrivPrefLastUpdateUser>
+						<PrivPrefLastUpdateDate>2015-11-23 10:45:22.662</PrivPrefLastUpdateDate>
+						<PrivPrefLastUpdateUser>MDMAdmin</PrivPrefLastUpdateUser>
+						<PrivPrefCatType>1000001</PrivPrefCatType>
+						<PrivPrefCatValue>Agent</PrivPrefCatValue>
+						<PrivPrefActionType>5</PrivPrefActionType>
+						<PrivPrefActionValue>Solicitation Allowed</PrivPrefActionValue>
+						<PrivPrefIdPK>385744827552266301</PrivPrefIdPK>
+						<PrivPrefLastUpdateTxId>198444827552250401</PrivPrefLastUpdateTxId>
+						<PrivPrefInstancePK>382044827552252201</PrivPrefInstancePK>
+						<EntityPrivPrefLastUpdateTxId>198444827552250401</EntityPrivPrefLastUpdateTxId>
+					</TCRMPartyPrivPrefBObj>
+					<TCRMPartyPrivPrefBObj>
+						<PartyId>382044827552252201</PartyId>
+						<PartyPrivPrefIdPK>388044827552267201</PartyPrivPrefIdPK>
+						<PrivPrefEntity>CONTACT</PrivPrefEntity>
+						<PrivPrefReasonType>1000001</PrivPrefReasonType>
+						<PrivPrefReasonValue>Recorded By Agent</PrivPrefReasonValue>
+						<SourceIdentType>1000010</SourceIdentType>
+						<SourceIdentValue>BW</SourceIdentValue>
+						<StartDate>2015-11-23 10:45:22.671</StartDate>
+						<PrivPrefActOptId>1000003</PrivPrefActOptId>
+						<PrivPrefType>1000002</PrivPrefType>
+						<PrivPrefValue>Email</PrivPrefValue>
+						<EntityPrivPrefLastUpdateDate>2015-11-23 10:45:22.672</EntityPrivPrefLastUpdateDate>
+						<EntityPrivPrefLastUpdateUser>MDMAdmin</EntityPrivPrefLastUpdateUser>
+						<PrivPrefLastUpdateDate>2015-11-23 10:45:22.671</PrivPrefLastUpdateDate>
+						<PrivPrefLastUpdateUser>MDMAdmin</PrivPrefLastUpdateUser>
+						<PrivPrefCatType>1000001</PrivPrefCatType>
+						<PrivPrefCatValue>Agent</PrivPrefCatValue>
+						<PrivPrefActionType>5</PrivPrefActionType>
+						<PrivPrefActionValue>Solicitation Allowed</PrivPrefActionValue>
+						<PrivPrefIdPK>388044827552267201</PrivPrefIdPK>
+						<PrivPrefLastUpdateTxId>198444827552250401</PrivPrefLastUpdateTxId>
+						<PrivPrefInstancePK>382044827552252201</PrivPrefInstancePK>
+						<EntityPrivPrefLastUpdateTxId>198444827552250401</EntityPrivPrefLastUpdateTxId>
+					</TCRMPartyPrivPrefBObj>
+					<TCRMPartyPrivPrefBObj>
+						<PartyId>382044827552252201</PartyId>
+						<PartyPrivPrefIdPK>389944827552267501</PartyPrivPrefIdPK>
+						<PrivPrefEntity>CONTACT</PrivPrefEntity>
+						<PrivPrefReasonType>1000001</PrivPrefReasonType>
+						<PrivPrefReasonValue>Recorded By Agent</PrivPrefReasonValue>
+						<SourceIdentType>1000010</SourceIdentType>
+						<SourceIdentValue>BW</SourceIdentValue>
+						<StartDate>2015-11-23 10:45:22.674</StartDate>
+						<PrivPrefActOptId>1000005</PrivPrefActOptId>
+						<PrivPrefType>1000003</PrivPrefType>
+						<PrivPrefValue>Contact</PrivPrefValue>
+						<EntityPrivPrefLastUpdateDate>2015-11-23 10:45:22.675</EntityPrivPrefLastUpdateDate>
+						<EntityPrivPrefLastUpdateUser>MDMAdmin</EntityPrivPrefLastUpdateUser>
+						<PrivPrefLastUpdateDate>2015-11-23 10:45:22.674</PrivPrefLastUpdateDate>
+						<PrivPrefLastUpdateUser>MDMAdmin</PrivPrefLastUpdateUser>
+						<PrivPrefCatType>1000001</PrivPrefCatType>
+						<PrivPrefCatValue>Agent</PrivPrefCatValue>
+						<PrivPrefActionType>5</PrivPrefActionType>
+						<PrivPrefActionValue>Solicitation Allowed</PrivPrefActionValue>
+						<PrivPrefIdPK>389944827552267501</PrivPrefIdPK>
+						<PrivPrefLastUpdateTxId>198444827552250401</PrivPrefLastUpdateTxId>
+						<PrivPrefInstancePK>382044827552252201</PrivPrefInstancePK>
+						<EntityPrivPrefLastUpdateTxId>198444827552250401</EntityPrivPrefLastUpdateTxId>
+					</TCRMPartyPrivPrefBObj>
+					<TCRMPartyValueBObj>
+						<ComponentID>1036</ComponentID>
+						<PartyValueId>381144827552268101</PartyValueId>
+						<PartyId>382044827552252201</PartyId>
+						<PartyValueType>1000004</PartyValueType>
+						<PartyValueValue>BW Contact Preferences</PartyValueValue>
+						<StartDate>2015-11-23 10:45:22.68</StartDate>
+						<PartyValueLastUpdateDate>2015-11-23 10:45:22.68</PartyValueLastUpdateDate>
+						<PartyValueLastUpdateUser>MOHAMMAD.SIDDIQUI</PartyValueLastUpdateUser>
+						<PartyValueLastUpdateTxId>198444827552250401</PartyValueLastUpdateTxId>
+						<Attribute0Type>1000007</Attribute0Type>
+						<Attribute0Value>Last Verified Date</Attribute0Value>
+						<Attribute0String>2002-12-01 08:07:56</Attribute0String>
+						<Attribute1Type>1000002</Attribute1Type>
+						<Attribute1Value>Occupation Code</Attribute1Value>
+						<Attribute1String>OTHER</Attribute1String>
+						<CategoryType>1000004</CategoryType>
+						<CategoryValue>BW Values</CategoryValue>
+					</TCRMPartyValueBObj>
+					<AddPartyStatus>3</AddPartyStatus>
+				</TCRMPersonBObj>
+			</PersonNotificationBObj>
+        </TCRMObject>
+    </TCRMTx>
+</TCRMService>
